@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "info@rafacik.com"
 google_analitycs_id = "Your ID"
 home = "Anasayfa"
-logo = "images/rafacik-logo.png"
+logo = "images/rafacik-logo-beyaz.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
